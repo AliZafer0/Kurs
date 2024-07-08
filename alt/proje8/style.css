@@ -1,0 +1,123 @@
+body
+{
+    background-color: #181717;
+}
+.container
+{
+    display: block;
+}
+.ust
+{
+    display: flex;
+    justify-content: right;
+    background-color: #181717;
+}
+.ust h2
+{
+    font-size: 1.2rem;
+    margin-right: 1rem;
+}
+.alt
+{
+    height: 90vh;
+    display:grid ;
+    margin-left: 10%;
+    margin-right: 10%;
+    grid-template-columns: 1fr 1fr;
+    width: 80%;
+    
+}
+.container a
+{
+    color: #f7f7f7;
+    text-decoration: none;
+}
+.container .ust a:hover
+{
+    color: #efc862;
+}
+.sol
+{
+
+    margin-right: 10rem;
+    width: 30%;
+}
+
+.genel
+{
+    list-style: none;
+}
+.genel li{
+    text-align: center;
+    color: #efc862;
+    background-color: #272727;
+}
+.blog {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 10rem;
+}
+
+.kartlar {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kart {
+    flex: 0 0 calc(33.33% - 20px); /* 3 kart yan yana sığacak şekilde ayarlanır */
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    transition: transform 0.3s ease-out;
+}
+
+.kart:hover {
+    transform: scale(1.05); /* Üzerine gelindiğinde büyüme efekti */
+}
+
+.kart-icerik {
+    position: relative;
+    overflow: hidden;
+}
+
+.kart-icerik img {
+    width: 100%;
+    height: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease-out;
+}
+
+.kart:hover .kart-icerik img {
+    transform: scale(1.1); /* Üzerine gelindiğinde resim büyüme efekti */
+}
+
+.kart-icerik h2, .kart-icerik p {
+    padding: 10px;
+    text-align: center;
+}
+
+.text h1
+{
+    font-size: 4rem;
+    color: white;
+    text-shadow: 1 2 3 4;
+}
+.kart a
+{
+    color: #181717;
+    text-decoration: none;
+}
+.container
+{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
