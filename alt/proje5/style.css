@@ -1,0 +1,133 @@
+
+a{
+    text-decoration: none;
+    color: white;
+}
+body
+{
+    background-color: rgb(28, 36, 44);
+}    
+.s {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.s .baslik {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    font-size: 24px;
+}
+
+.liste {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.liste li {
+    margin-left: 20px;
+    position: relative;
+}
+
+.liste li a {
+    text-decoration: none;
+    color: #f7f7f7; /* Bağlantı rengi */
+    position: relative;
+}
+
+.liste li a::after {
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    height: 7px;
+    border-radius: 2rem;
+    background-color: #5a1818; /* Çizgi rengi */
+    transform: translateY(100%);
+    transition: transform 0.3s ease; /* Geçiş efekti */
+}
+
+.liste li a:hover::after {
+    transform: translateY(0);
+}
+
+.container
+{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hello
+{
+    text-align: center;
+    width: 70rem;
+}
+.hello span
+{
+    font-size: 4rem;
+    color: #f7f7f7;
+}
+
+/* Footer stil ayarları */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.footer .inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer h3 {
+    color: #fff;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.footer .footer-top {
+    flex: 1;
+    text-align: left;
+    padding: 20px;
+}
+
+.footer .footer-bottom {
+    flex: 1;
+    text-align: right;
+    padding: 20px;
+}
+
+.footer-links {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.footer-links li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.footer-links li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-links li a:hover {
+    color: #5a1818;
+}

@@ -1,0 +1,79 @@
+.s {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.s .baslik {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    font-size: 24px;
+}
+
+.liste {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.liste li {
+    margin-left: 20px;
+    position: relative;
+}
+
+.liste li a {
+    text-decoration: none;
+    color: #f7f7f7; /* Bağlantı rengi */
+    position: relative;
+}
+
+.liste li a::after {
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    height: 7px;
+    border-radius: 2rem;
+    background-color: #5a1818; /* Çizgi rengi */
+    transform: translateY(100%);
+    transition: transform 0.3s ease; /* Geçiş efekti */
+}
+
+.liste li a:hover::after {
+    transform: translateY(0);
+}
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: rgb(28, 36, 44);
+            color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            height: 90vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .hello {
+            text-align: center;
+            width: 70rem;
+        }
+        .hello span {
+            font-size: 4rem;
+            display: block;
+            margin-bottom: 20px;
+        }
+        .hello p {
+            font-size: 1.6rem;
+            line-height: 1.8;
+        }
