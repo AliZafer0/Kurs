@@ -1,0 +1,75 @@
+
+.blog {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 10rem;
+}
+
+.kartlar {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kart {
+    flex: 0 0 calc(33.33% - 20px); /* 3 kart yan yana sığacak şekilde ayarlanır */
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    transition: transform 0.3s ease-out;
+}
+
+.kart:hover {
+    transform: scale(1.05); /* Üzerine gelindiğinde büyüme efekti */
+}
+
+.kart-icerik {
+    position: relative;
+    overflow: hidden;
+}
+
+.kart-icerik img {
+    width: 100%;
+    height: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease-out;
+}
+
+.kart:hover .kart-icerik img {
+    transform: scale(1.1); /* Üzerine gelindiğinde resim büyüme efekti */
+}
+
+.kart-icerik h2, .kart-icerik p {
+    padding: 10px;
+    text-align: center;
+}
+
+@media (max-width: 992px) {
+    .kart {
+        flex: 0 0 calc(50% - 20px); /* Ekran küçüldüğünde 2 kart sığacak şekilde ayarlanır */
+    }
+}
+
+@media (max-width: 576px) {
+    .kart {
+        flex: 0 0 100%; /* Mobil ekranlarda kartlar sıralı şekilde yer alır */
+    }
+}
+.text h1
+{
+    font-size: 4rem;
+    color: white;
+    text-shadow: 1 2 3 4;
+}
+.kart a
+{
+    color: #181717;
+    text-decoration: none;
+}
