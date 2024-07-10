@@ -1,4 +1,39 @@
 body
 {
+    background-color: #121212;
+}
+.first
+{
+    height: 90vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.card
+{
     background-color: #1f1f1f;
+    width: 32rem;
+    height: 40rem;
+    margin-left: 3.2rem;
+    margin-top: 5rem;
+    border-radius: 3rem;
+    display: block;
+    justify-items: center;
+    align-content: center;
+    text-align: center;
+    transition: transform 0.3s ease; 
+
+}
+.card img
+{
+    border-radius: 5rem;
+    width: 50%;
+}
+.card a
+{
+    color: white;
+    text-decoration: none;
+}
+.card:hover
+{
+    transform: scale(1.1);
 }
