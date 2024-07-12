@@ -25,6 +25,7 @@
 .baslik span
 {
     font-weight: bold;
+    font-size: 100%;
     color: #efc862;
     padding-left: 50px;
 }
@@ -35,7 +36,7 @@
     color: white;
 }
 .search-container{
-    width: 490px;
+    width: 100%;
     display: block;
     margin: 0 auto;
     border-radius: 5rem;

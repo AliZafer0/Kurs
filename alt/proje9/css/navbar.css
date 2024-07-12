@@ -1,41 +1,42 @@
-
-header
-{
+@import url('media.css');
+header {
     display: flex;
     background-color: #181717;
     align-items: center;
+    padding: 1rem;
 }
-header ul
-{
+
+header ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 75%;    
+    margin-left: auto; /* Değiştirildi */
 }
-header ul li
-{
+
+header ul li {
     margin-left: 2rem;
     list-style: none;
 }
 
-header a
-{
+header a {
     text-decoration: none;
     color: white;
 }
-header ul li a:hover
-{
+
+header ul li a:hover {
     color: #efc862;
 }
-header h2
-{
+
+header h2 {
     margin-left: 3rem;
 }
-header h2:hover
-{
-    color:#efc862
-}
-.item-active
-{
+
+header h2:hover {
     color: #efc862;
 }
+
+.item-active {
+    color: #efc862;
+}
+
+

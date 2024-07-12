@@ -1,0 +1,56 @@
+/* Medya Sorguları */
+@media (max-width: 768px) {
+    .column {
+        width: 100%;
+    }
+    .footer-all {
+        margin-top: 4rem;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .icon
+    {
+        margin-left: 42%;
+    }
+}
+
+@media (max-width: 768px) {
+    .content {
+        grid-template-columns: 1fr;
+    }
+    
+    .right {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: center; /* Ortalamak için değiştirildi */
+    }
+    
+    header h2 {
+        margin-left: 1.1rem; /* Sol boşluk sıfırlandı */
+        margin-bottom: 1rem; /* Alt boşluk eklendi */
+        text-align: center; /* Metin ortalandı */
+        width: 100%; /* Genişlik %100 yapıldı */
+    }
+    
+    header ul {
+        flex-direction: column;
+        margin-left: 0; /* Sol boşluk sıfırlandı */
+        width: 100%; /* Genişlik %100 yapıldı */
+    }
+    
+    header ul li {
+        margin-left: 0;
+        margin-bottom: 1rem; /* Alt boşluk eklendi */
+    }
+    
+    header ul li a {
+        width: 100%; /* Genişlik %100 yapıldı */
+        text-align: center; /* Metin ortalandı */
+    }
+}
