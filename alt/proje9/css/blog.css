@@ -1,0 +1,211 @@
+.first {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+}
+
+.sol {
+    width: 25%;
+    background-color: #181717;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* İçeriği yukarı yapışık tutar */
+    padding-top: 15rem; /* Negatif padding-top'u kaldırdık */
+    padding-bottom: 1rem; /* Alt kısma biraz boşluk ekleyebiliriz */
+}
+
+.sag {
+    width: 75%;
+    padding: 7rem;
+    padding-top: -5rem; /* Bu satırın etkisiz olduğunu varsayarak kaldırdım */
+    display:flex;
+}
+
+
+.panel {
+    margin-top: -8rem; /* Bu değeri inceledikten sonra anlamadım, kaldırdım */
+    margin-left: 5rem; /* Yine anlamadım, kaldırdım */
+    background-color: rgb(14, 14, 14);
+    height: 30rem;
+    width: 80%;
+    border-radius: 2rem;
+    padding: 2rem;
+    color: white;
+    display: block;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Gölge efekti ayarı */
+}
+
+.ust {
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alt {
+    height: 70%;
+    padding-top: 1px; /* Gerekliyse ekleyebiliriz, ancak 1px genellikle farkedilmez */
+}
+
+.ust img {
+    width: 13rem;
+    border-radius: 50rem;
+}
+
+.yazar-bilgi {
+    text-align: left; /* Yatayda sol hizalama */
+}
+
+.bilgi-satir {
+    display: flex; /* Başlık ve paragraf yan yana */
+    align-items: center; /* Dikey hizalama */
+    margin-bottom: 0; /* Satırlar arası boşluk kaldırıldı */
+    margin-top: -2.5rem;
+}
+
+.bilgi-satir h4 {
+    color: #efc862;
+    margin-right: 10px; /* Başlık ile paragraf arasındaki boşluk */
+    font-size: 1.3rem;
+}
+
+.social-icons2 {
+    display: grid;
+    grid-template-columns: repeat(4, auto); /* Dört sütuna bölme */
+    gap: 0px; /* Sütunlar arası boşluk */
+}
+.social-icons2 a:hover
+{
+    color: #efc862;
+}
+.social-icons2 a {
+    color: white;
+    text-decoration: none;
+}
+
+.center {
+    width: 80%; /* Genişlik ayarı */
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.cc
+{
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+}
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgb(14, 14, 14);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #fff;
+    margin-right: 2rem;
+}
+
+.content p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
+
+.content img {
+    width: 40%; /* Resimlerin genişliği %100 yapılacak */
+    height: auto; /* Otomatik yükseklik */
+    display: block; /* Görünüm düzenlemesi */
+    margin-bottom: 15px; /* Alt boşluk */
+    border-radius: 3rem;
+}
+.yan {
+    background-color: rgb(14, 14, 14);
+    width: 24rem;
+    height: 50rem;
+    border-radius: 3rem;
+    box-shadow: inset 30px 30px 30px rgba(0, 0, 0, 0.5); /* İçe doğru gölge */
+    padding: 1rem; /* İçeriğin kenarlardan uzaklığı */
+    display: block;
+    gap: 1rem; /* İç içe geçmiş div'ler arasındaki boşluk */
+}
+
+.satirsag {
+    margin-left: 5%;
+    margin-top: 10%;
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 80%; 
+    border-radius: 1rem;
+    padding: 1rem;
+    position: relative;
+    overflow: hidden; 
+    transition: max-height 0.3s ease; /* Geçiş efekti */
+}
+
+.satirsag:hover .yan {
+    max-height: 50rem; /* Üstüne gelindiğinde yükseklik artışı */
+    transition: max-height 0.5s ease; /* Geçiş efekti */
+}
+
+.satirsag h3 {
+    margin-bottom: 0.5rem; /* Başlık alt boşluk ayarı */
+    color: #fff;
+}
+.satirsag p
+{
+    color: #fff;
+}
+.yazi-ozeti {
+    display: none;
+    
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0.5rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+.yan a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+.satirsag:hover .yazi-ozeti {
+    
+    display: block; /* Üstüne gelindiğinde özet gösterimi */
+}
+
+@media screen and (max-width: 768px) {
+    .first {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .sol, .sag {
+        width: 100%;
+        padding: 2rem; /* Küçük ekranlarda daha az padding kullanalım */
+        padding-top: 0; /* Önceki negatif padding'i kaldıralım */
+    }
+    .sol
+    {
+        padding-top: 10rem;
+        padding-left: 6.5rem;
+    }
+    .sag
+    {
+        padding-left: 20rem;
+    }
+    .yan
+    {
+        display: none;
+    }
+    body
+    {
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+}

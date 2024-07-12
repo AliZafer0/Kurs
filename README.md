@@ -29,7 +29,8 @@ Aşağıda, menüde yer alan projelerin bir listesi bulunmaktadır:
 - [Proje 6: Basit Şirket Tanıtımı](alt/proje5/index.html)
 - [Proje 7: Basit Olmayan Bir Şirket Tanıtımı](alt/proje6/index.html)
 - [Proje 8: Basit Blog Tasarımı](alt/proje8/index.html)
-- [Proje 9: Basit Olmayan Blog Tasarımı](alt/proje7/index.html)
+- [Proje 9: Basit Blog Tasarımı 2](alt/proje7/index.html)
+- [Proje 10: Basit Olmayan Blog Tasarımı](alt/proje9/index.html)
 
 ## Diğer Projeler
 

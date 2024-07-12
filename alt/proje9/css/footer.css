@@ -1,0 +1,83 @@
+.footer-all {
+    background-color: #252525;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.container2 {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.container2 i
+{
+    padding-right: 0.5rem;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.column {
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+.footercontent a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footercontent p {
+    margin: 10px 0;
+}
+
+.logofooter {
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.footbas {
+    font-weight: bold;
+    padding-bottom: 0.5rem;
+}
+
+.info_contact {
+    margin-top: 10px;
+}
+
+.contact-item {
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    display: flex;
+    flex-direction: column;
+}
+
+.icon {
+    margin-bottom: 10px;
+}
+
+.icon a {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.icon a span {
+    margin-left: 5px;
+}
+
+.footer-bottom-wrapper {
+    text-align: center;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+    .column {
+        width: 100%;
+    }
+}
