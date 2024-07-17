@@ -1,122 +1,100 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blogs</title>
+    <title>Kategoriler</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-T8+CLjzTpXhFb6oLqV5H4bVzv19tl2G2Vj9/yGtC+PwL3cX5cAzlAeKYsWdx2l2Uq/+hge8C9k/CdQZULm5+9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="../../../../css/footer.css">
-    <link rel="stylesheet" href="../../../../css/navbar.css">
     <link rel="stylesheet" href="../../../../css/body.css">
-    <link rel="stylesheet" href="../../../../css/blog.css">
+    <link rel="stylesheet" href="../../../../css/footer.css">
+    <link rel="stylesheet" href="../../../../css/kategori.css">
+    <link rel="stylesheet" href="../../../../css/navbar.css">
 </head>
 <body>
+    <div class="container">
         <header>
-        <a href="../../../../index.html"><h2>ExeBlog</h2></a>   
-           <ul>
-               <li ><a  href="../../../../index.html">Anasayfa</a></li>
-               <li><a class="item-active" href="../../../blog/index.html">Blog</a></li>
-               <li><a  href="../../../iletisim/index.html">İletişim</a></li>
-           </ul>
-       </header>
-
-    <section class="first">
-        <div class="sol">
-            <div class="panel">
-                <div class="ust"><img src="../../../../images/ana/profil.jpg" alt=""></div>
-                <div class="alt">
-                    <h1 style="text-align: center;">Ali Zafer</h1>
-                    <hr class="cc"> 
-                    <div class="yazar-bilgi">
-                        <div class="bilgi-satir">
-                            <h4>Ad:</h4><p>Ali Zafer</p>
-                        </div>
-                        <div class="bilgi-satir">
-                            <h4>Rütbe:</h4><p>Kıdemli Yazar</p>
-                        </div>
-                        <div class="bilgi-satir">
-                            <h4>Kayıt Tarihi:</h4><p>01.01.01</p>
-                        </div>
-                        <div class="bilgi-satir">
-                            <h4>Sosyal Medya: <br> </h4>
-                            <div class="social-icons2">
-                                <a href="https://www.instagram.com"><i class="fa-brands fa-instagram fa-xl" id="s1"></i><span style="padding-right: .5rem;"></span></a>
-                                <a href="https://web.telegram.org"><i class="fa-brands fa-telegram fa-xl" id="s2"></i><span style="padding-right: .5rem;"></span></a>
-                                <a href="https://web.whatsapp.com"><i class="fa-brands fa-whatsapp fa-xl" id="s3"></i><span style="padding-right: .5rem;"></span></a>
-                                <a href="https://www.youtube.com"><i class="fa-brands fa-youtube fa-xl" id="s4"></i><span style="padding-right: .5rem;"></span></a>
-                            </div>
-                        </div>
+            <a href="../../../../index.html"><h2>ExeBlog</h2></a>   
+               <ul>
+                   <li ><a  href="../../../../index.html">Anasayfa</a></li>
+                   <li><a class="item-active" href="../index.html">Blog</a></li>
+                   <li><a href="../../iletisim/index.html">İletişim</a></li>
+               </ul>
+           </header>
+        <div class="content">
+            <div class="left">
+                <h1>Kategoriler</h1>
+                
+                <div class="button-container">
+                    <a href="../phyton/index.html"><button>Phyton</button></a>
+                    <a href="../javascript/index.html"><button>JavaScript</button></a>
+                    <a href="../index.html"><button >Java</button></a>
+                    <a href="../Csharp/index.html"><button >C#</button></a>
+                    <a href="../C++/index.html"><button>C++</button></a>
+                    <a href="index.html"><button class="itemactive">Ruby</button></a>
+                </div>
+            </div>
+            <div class="right">
+                
+                <a href="ruby-ile-web-gelistirme-ruby-on-rails/">
+                    <div class="box">
+                        <img src="../../../../images/yazilar/yapay-zeka.jpg" alt="Fotoğraf 1">
+                        <h3>Ruby ile Web Geliştirme: Ruby on Rails
+                        </h3>
+                        <p>Ruby on Rails, hızlı ve verimli web uygulamaları geliştirmeyi sağlar.</p>
                     </div>
+                </a>
+                <a href="ruby-ile-nesne-yonelimli-programlama/index.html">
+                    <div class="box">
+                        <img src="../../../../images/yazilar/web.jpg" alt="Fotoğraf 2">
+                        <h3>Ruby ile Nesne Yönelimli Programlama</h3>
+                        <p>Ruby, nesne yönelimli programlama paradigmalarını destekleyen esnek bir dildir.
+                        </p>
+                    </div>
+                </a>
+                <a href="ruby-ile-test-otomasyonu/index.html">
+                <div class="box">
+                    <img src="../../../../images/yazilar/veri-bilimi.jpg" alt="Fotoğraf 3">
+                    <h3>Ruby ile Test Otomasyonu
+
+                    </h3>
+                    <p>Ruby, test otomasyonu için yaygın olarak kullanılan bir dildir.
+                    </p>
                 </div>
-                        
-                </div>
+                </a>
+
+                <a href="ruby-ile-veri-isleme-ve-manipulasyon/index.html">
+                    <div class="box">
+                        <img src="../../../../images/yazilar/mobil-uygulama-gelistirme.jpg" alt="Fotoğraf 4">
+                        <h3>Ruby ile Veri İşleme ve Manipülasyon
+                        </h3>
+                        <p>Ruby, veri işleme ve manipülasyon görevlerinde etkili bir dildir.
+                        </p>   
+                    </div>
+                </a>
+                
+                <a href="ruby-ile-api-gelistirme/index.html">
+                    <div class="box">
+                        <img src="../../../../images/yazilar/siber-guvenlik.jpg" alt="Fotoğraf 5">
+                        <h3>Ruby ile API Geliştirme
+                        </h3>
+                        <p>Ruby, RESTful API'ler geliştirmek için yaygın olarak kullanılır.
+                        </p>
+                    </div>
+                </a>
+
+                <a href="ruby-ile-devops-ve-otomasyon/index.html">
+                    <div class="box">
+                        <img src="../../../../images/yazilar/bulut-teknolojileri.jpg" alt="Fotoğraf 6">
+                        <h3>Ruby ile DevOps ve Otomasyon
+                        </h3>
+                        <p>Ruby, DevOps ve otomasyon süreçlerinde yaygın olarak kullanılır.
+                        </p>
+                    </div>
+                </a>
+
             </div>
         </div>
-        <div class="sag">
-            <div class="center">
-                <div class="content">
-                    <h1>Mobil Uygulama Geliştirme</h1>
-                    <p>Mobil uygulama geliştirme, akıllı telefonlar ve tabletler için uygulama yazılımı geliştirme sürecidir. Bu süreç, iOS, Android gibi platformlara özel olarak uygulama geliştirme becerilerini içerir. Mobil uygulama geliştiricileri, kullanıcı dostu ve işlevsel mobil uygulamalar oluşturmak için çeşitli programlama dilleri ve SDK'lar kullanır.</p>
-                    
-                    <img src="../../../../images/yazilar/mobil-uygulama-gelistirme.jpg" alt="Mobil Uygulama Geliştirme">
-            
-                    <p>İyi bir mobil uygulama, performans, kullanılabilirlik ve güvenlik gibi faktörlere önem verir. Kullanıcı deneyimini optimize etmek ve uygulama performansını artırmak için sürekli olarak yeni teknikler ve yöntemler geliştirilmektedir.</p>
-            
-                    <img src="../../../../images/yazilar/mobil-performans.jpg" alt="Mobil Uygulama Performansı">
-            
-                    <h2>Mobil Uygulama Geliştirmenin Uygulama Alanları</h2>
-                    <p>Mobil uygulama geliştirme, e-ticaretten sosyal medya platformlarına, oyunlardan iş verimliliği araçlarına kadar geniş bir uygulama yelpazesine sahiptir. Örneğin, bir e-ticaret şirketi mobil uygulaması aracılığıyla müşterilere hızlı ve güvenli alışveriş deneyimleri sunabilir veya bir oyun geliştirici, mobil oyunlarında kullanıcı etkileşimlerini optimize edebilir.</p>
-            
-                    <img src="../../../../images/yazilar/mobil-kullanim-alanlari.jpg" alt="Mobil Uygulama Kullanım Alanları">
-            
-                    <h2>Mobil Uygulama Geliştirme Teknolojileri</h2>
-                    <p>Mobil uygulama geliştirme, hızla büyüyen ve evrim geçiren bir alandır. Bu nedenle, mobil uygulama geliştiricileri, yeni trendleri takip ederek ve kullanıcı geri bildirimlerine önem vererek uygulamalarını sürekli olarak iyileştirmelidir.</p>
-            
-                    <img src="../../../../images/yazilar/mobil-gelistirme-trendleri.jpg" alt="Mobil Uygulama Geliştirme Trendleri">
-            
-                    <h2>Sonuç</h2>
-                    <p>Bu yazıda, mobil uygulama geliştirme sürecinin temel prensiplerini ve kullanılan teknolojileri anlatmaya çalıştık. Daha fazla bilgi edinmek ve pratiğe geçmek için çeşitli online kaynaklardan yararlanabilir veya kurslara katılabilirsiniz.</p>
-                </div>
-            </div>
-            <div class="yan">
-                <div class="yanbaslik">
-                    <h2 style="text-align: center; color: #f3f3f3;">Bu Haftanın En Çok Ziyaret Edilen Konuları</h2>
-                </div>
-                <div class="satirsag">
-                    <a href="../yapay-zeka-ve-makine-ogrenimi/index.html">
-                        <h3>Yapay Zeka Ve Makine Öğrenimi</h3>
-                        <p>Yazar Adı: Ali Zafer</p>
-                        <p>Görüntülenme Sayısı: 10</p>
-                        <div class="yazi-ozeti">
-                            <p>Yapay Zeka ve Makine Öğrenimi, bilgisayarların insan benzeri yetenekler kazanmasını sağlayan teknolojilerdir ve birçok endüstride önemli dönüşümler yaratırlar.</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="satirsag">
-                    <a href="../web-gelistirme/index.html">
-                        <h3>Web Geliştirme</h3>
-                        <p>Yazar Adı: Ali Zafer</p>
-                        <p>Görüntülenme Sayısı: 85</p>
-                        <div class="yazi-ozeti">
-                            <p>Web geliştirme, HTML, CSS ve JavaScript kullanılarak web siteleri oluşturma sürecidir, sürekli güncel kalmak önemlidir.</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="satirsag">
-                    <a href="../cybersecurity/index.html">
-                        <h3>Cybersecurity</h3>
-                        <p>Yazar Adı: Jane Smith</p>
-                        <p>Görüntülenme Sayısı: 85</p>
-                        <div class="yazi-ozeti">
-                            <p>Bilgi güvenliği, bilgisayar sistemlerini tehditlere karşı koruma sürecidir, önlemler ve güvenlik bilinci önemlidir.</p>
-                        </div>
-                    </a>
-                </div>
-            </div>  
-        </div>
-    </section>
-    
+    </div>
     <footer class="footer-all">
         <div class="container2">
             <div class="row">
@@ -158,7 +136,7 @@
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
             <div class="footer-bottom-wrapper">
                 <p>©2024 Tüm Hakları Saklıdır.EXE TEAM </p>
             </div>

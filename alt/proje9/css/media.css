@@ -29,28 +29,37 @@
     header {
         flex-direction: column;
         align-items: center; /* Ortalamak için değiştirildi */
+
     }
     
     header h2 {
+        margin-right:3rem ;
         margin-left: 1.1rem; /* Sol boşluk sıfırlandı */
         margin-bottom: 1rem; /* Alt boşluk eklendi */
-        text-align: center; /* Metin ortalandı */
         width: 100%; /* Genişlik %100 yapıldı */
     }
     
     header ul {
         flex-direction: column;
-        margin-left: 0; /* Sol boşluk sıfırlandı */
+        margin-right:30rem ;
         width: 100%; /* Genişlik %100 yapıldı */
     }
     
     header ul li {
-        margin-left: 0;
+        margin-right:6rem; 
+        margin-left: 6rem;
+        padding: 0px;
+        width: 10%;
         margin-bottom: 1rem; /* Alt boşluk eklendi */
     }
     
     header ul li a {
-        width: 100%; /* Genişlik %100 yapıldı */
         text-align: center; /* Metin ortalandı */
+    }
+}
+@media (max-width: 768px) {
+    .left h1
+    {
+        margin-bottom: 4rem;
     }
 }

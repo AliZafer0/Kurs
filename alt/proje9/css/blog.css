@@ -192,11 +192,13 @@ h1 {
     .sol
     {
         padding-top: 10rem;
-        padding-left: 6.5rem;
+        padding-left: 0rem;
+        margin-right: 2rem;
     }
     .sag
     {
         padding-left: 20rem;
+        margin-right: 6rem;
     }
     .yan
     {

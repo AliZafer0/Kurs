@@ -145,6 +145,13 @@
     .kart {
         flex: 0 0 100%; /* Mobil ekranlarda kartlar sıralı şekilde yer alır */
     }
+    .search-container{
+        width: 70%;
+    }
+    .baslik
+    {
+        font-size: 4rem;
+    }
 }
 .text h1
 {
