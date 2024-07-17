@@ -1,0 +1,1177 @@
+Python Yazıları
+python-ile-web-gelistirme
+veri-bilimi-ve-python
+python-ile-makine-ogrenimi
+python-ile-otomasyon-ve-script-yazma
+python-frameworkleri-django-ve-flask
+python-ile-oyun-gelistirme
+JavaScript Yazıları
+javascript-ile-dinamik-web-sayfalari
+javascript-es6-ve-sonrasi
+javascript-frameworkleri-react-ve-vuejs
+nodejs-ile-sunucu-tarafi-javascript
+javascript-ile-asenkron-programlama
+javascript-ve-dom-manipulasyonu
+Java Yazıları
+java-ile-oop-nesne-yonelimli-programlama
+java-ile-mobil-uygulama-gelistirme-android
+java-ile-spring-framework
+java-ile-veritabani-islemleri-jdbc-ve-hibernate
+java-ile-web-uygulamalari-gelistirme
+javada-coklu-iplik-multithreading
+C# Yazıları
+csharp-ile-dotnet-framework
+csharp-ile-oop-nesne-yonelimli-programlama
+csharp-ile-aspnet-core-ve-web-gelistirme
+csharp-ile-windows-uygulamalari-gelistirme
+csharp-ile-oyun-gelistirme-unity
+csharp-ile-veri-yapilari-ve-algoritmalar
+C++ Yazıları
+cpp-ile-oop-nesne-yonelimli-programlama
+cpp-ile-sistem-programlama
+cpp-ile-oyun-gelistirme
+cpp-ile-veritabani-programlama
+cpp-ile-ag-programlama
+cpp-ile-verimli-bellek-yonetimi
+Ruby Yazıları
+ruby-ile-web-gelistirme-ruby-on-rails
+ruby-ile-nesne-yonelimli-programlama
+ruby-ile-test-otomasyonu
+ruby-ile-veri-isleme-ve-manipulasyon
+ruby-ile-api-gelistirme
+ruby-ile-devops-ve-otomasyon
+Yapay Zeka ve Makine Öğrenimi Yazıları
+yapay-zeka-nedir
+makine-ogrenimi-algoritmalari
+derin-ogrenme-ve-sinir-aglari
+yapay-zeka-uygulamalari
+yapay-zeka-ve-etik
+makine-ogrenimi-proje-yonetimi
+Blockchain Teknolojisi ve Kripto Paralar Yazıları
+blockchain-temel-kavramlar
+bitcoin-ve-ilk-kripto-para
+akilli-kontratlar-ve-ethereum
+blockchainin-finans-sektorune-etkisi
+kripto-paralar-ve-yatirim
+blockchainin-diger-kullanim-alanlari
+Kuantum Bilgisayarlar Yazıları
+kuantum-bilgisayarlarin-temelleri
+kuantum-bilgisayarlarin-tarihcesi
+kuantum-algoritmalar
+kuantum-bilgisayarlarin-uygulamalari
+kuantum-bilgisayarlar-ve-sifreleme
+kuantum-bilgisayarlarin-gelecegi
+Biyoteknoloji ve Genetik Mühendislik Yazıları
+biyoteknolojinin-temel-kavramlari
+genetik-muhendislik-ve-genom-duzenleme
+biyoteknolojinin-tip-alanindaki-uygulamalari
+tarimda-biyoteknoloji
+biyoteknoloji-ve-etik-sorunlar
+biyoteknolojinin-gelecegi
+
+
+
+
+Python
+Python ile Web Geliştirme
+Python, Django ve Flask gibi framework'lerle web geliştirmede yaygın olarak kullanılır.
+
+Veri Bilimi ve Python
+Python, veri analizi ve makine öğrenimi için güçlü kütüphaneler sunar.
+
+Python ile Makine Öğrenimi
+Python, TensorFlow ve scikit-learn ile makine öğrenimi projeleri geliştirmek için idealdir.
+
+Python ile Otomasyon ve Script Yazma
+Python, günlük işlerin otomasyonunda ve script yazmada kullanışlıdır.
+
+Python Frameworkleri: Django ve Flask
+Django ve Flask, Python ile hızlı ve etkili web uygulamaları geliştirmeyi sağlar.
+
+Python ile Oyun Geliştirme
+Python, Pygame kütüphanesi ile basit oyunlar geliştirmek için uygundur.
+
+JavaScript
+JavaScript ile Dinamik Web Sayfaları
+JavaScript, web sayfalarına dinamik özellikler eklemek için kullanılır.
+
+JavaScript ES6 ve Sonrası
+ES6 ve sonrası JavaScript sürümleri, modern özelliklerle geliştirici deneyimini iyileştirir.
+
+JavaScript Frameworkleri: React ve Vue.js
+React ve Vue.js, kullanıcı dostu ve performanslı web uygulamaları geliştirmeyi sağlar.
+
+Node.js ile Sunucu Tarafı JavaScript
+Node.js, JavaScript'in sunucu tarafında çalışmasını sağlayarak hızlı ve ölçeklenebilir uygulamalar oluşturur.
+
+JavaScript ile Asenkron Programlama
+JavaScript, asenkron işlemleri yönetmek için Promises ve Async/Await gibi yapılar sunar.
+
+JavaScript ve DOM Manipülasyonu
+JavaScript, DOM manipülasyonu ile web sayfalarını dinamik hale getirmeyi mümkün kılar.
+
+Java
+Java ile OOP (Nesne Yönelimli Programlama)
+Java, nesne yönelimli programlama paradigmasını destekleyen güçlü bir dildir.
+
+Java ile Mobil Uygulama Geliştirme: Android
+Java, Android uygulama geliştirme için kullanılan birincil programlama dilidir.
+
+Java ile Spring Framework
+Spring Framework, Java ile kurumsal düzeyde uygulamalar geliştirmeyi sağlar.
+
+Java ile Veritabanı İşlemleri: JDBC ve Hibernate
+JDBC ve Hibernate, Java ile veritabanı işlemlerini kolaylaştırır.
+
+Java ile Web Uygulamaları Geliştirme
+Java, dinamik ve ölçeklenebilir web uygulamaları geliştirmek için idealdir.
+
+Java'da Çoklu İplik (Multithreading)
+Java, çoklu iplik desteği ile yüksek performanslı uygulamalar geliştirmeyi mümkün kılar.
+
+C#
+C# ile .NET Framework
+.NET Framework, C# ile kurumsal düzeyde uygulamalar geliştirmek için kullanılır.
+
+C# ile OOP (Nesne Yönelimli Programlama)
+C#, nesne yönelimli programlama paradigmalarını destekleyen modern bir dildir.
+
+C# ile ASP.NET Core ve Web Geliştirme
+ASP.NET Core, C# ile yüksek performanslı web uygulamaları geliştirmeyi sağlar.
+
+C# ile Windows Uygulamaları Geliştirme
+C#, Windows Forms ve WPF ile zengin masaüstü uygulamaları geliştirmeye olanak tanır.
+
+C# ile Oyun Geliştirme: Unity
+Unity, C# kullanarak 2D ve 3D oyunlar geliştirmek için popüler bir oyun motorudur.
+
+C# ile Veri Yapıları ve Algoritmalar
+C#, veri yapıları ve algoritmalar konusunda geniş bir yelpazeye sahiptir.
+
+C++
+C++ ile OOP (Nesne Yönelimli Programlama)
+C++, nesne yönelimli programlama paradigmasını destekleyen güçlü bir dildir.
+
+C++ ile Sistem Programlama
+C++, düşük seviye sistem programlama ve performans gerektiren uygulamalar için idealdir.
+
+C++ ile Oyun Geliştirme
+C++, performans gerektiren oyun projelerinde yaygın olarak kullanılır.
+
+C++ ile Veritabanı Programlama
+C++, veritabanı bağlantısı ve işlemleri için güçlü kütüphaneler sunar.
+
+C++ ile Ağ Programlama
+C++, ağ programlama ve veri iletimi için etkili bir dildir.
+
+C++ ile Verimli Bellek Yönetimi
+C++, bellek yönetimi konusunda geniş kontrol ve optimizasyon sağlar.
+
+Ruby
+Ruby ile Web Geliştirme: Ruby on Rails
+Ruby on Rails, hızlı ve verimli web uygulamaları geliştirmeyi sağlar.
+
+Ruby ile Nesne Yönelimli Programlama
+Ruby, nesne yönelimli programlama paradigmalarını destekleyen esnek bir dildir.
+
+Ruby ile Test Otomasyonu
+Ruby, test otomasyonu için yaygın olarak kullanılan bir dildir.
+
+Ruby ile Veri İşleme ve Manipülasyon
+Ruby, veri işleme ve manipülasyon görevlerinde etkili bir dildir.
+
+Ruby ile API Geliştirme
+Ruby, RESTful API'ler geliştirmek için yaygın olarak kullanılır.
+
+Ruby ile DevOps ve Otomasyon
+Ruby, DevOps ve otomasyon süreçlerinde yaygın olarak kullanılır.
+
+Yapay Zeka ve Makine Öğrenimi
+Yapay Zeka Nedir?
+Yapay zeka, makinelerin insan benzeri zeka davranışlarını sergilemesini sağlayan teknolojidir.
+
+Makine Öğrenimi Algoritmaları
+Makine öğrenimi algoritmaları, verilerden öğrenme ve tahmin yapma yeteneğine sahiptir.
+
+Derin Öğrenme ve Sinir Ağları
+Derin öğrenme, çok katmanlı sinir ağları kullanarak verilerden öğrenme yöntemidir.
+
+Yapay Zeka Uygulamaları
+Yapay zeka, otomatik sürüş, tıbbi teşhis ve kişiselleştirilmiş öneri sistemlerinde kullanılır.
+
+Yapay Zeka ve Etik
+Yapay zeka, veri gizliliği, önyargılar ve iş gücü etkisi gibi etik konuları beraberinde getirir.
+
+Makine Öğrenimi Proje Yönetimi
+Makine öğrenimi projeleri, dikkatli planlama ve yönetim gerektirir.
+
+Blockchain Teknolojisi ve Kripto Paralar
+Blockchain Temel Kavramlar
+Blockchain, dağıtık bir veri tabanı teknolojisidir.
+
+Bitcoin ve İlk Kripto Para
+Bitcoin, 2009 yılında oluşturulan ilk kripto paradır.
+
+Akıllı Kontratlar ve Ethereum
+Ethereum, akıllı kontratlar oluşturmayı ve çalıştırmayı sağlar.
+
+Blockchain'in Finans Sektörüne Etkisi
+Blockchain, finans sektöründe güvenli ve hızlı para transferleri sağlar.
+
+Kripto Paralar ve Yatırım
+Kripto paralar, yatırımcılar için yeni ve heyecan verici bir alan sunar.
+
+Blockchain'in Diğer Kullanım Alanları
+Blockchain, sağlık, lojistik ve dijital kimlik gibi alanlarda kullanılmaktadır.
+
+Kuantum Bilgisayarlar
+Kuantum Bilgisayarların Temelleri
+Kuantum bilgisayarlar, kuantum mekaniğinin ilkeleriyle çalışır.
+
+Kuantum Bilgisayarların Tarihçesi
+Kuantum bilgisayarların tarihçesi, 1980'lere kadar uzanır.
+
+Kuantum Algoritmalar
+Kuantum algoritmalar, belirli problemleri hızlı bir şekilde çözmeyi amaçlar.
+
+Kuantum Bilgisayarların Uygulamaları
+Kuantum bilgisayarlar, kimya, malzeme bilimi ve finans gibi alanlarda devrim yaratabilir.
+
+Kuantum Bilgisayarlar ve Şifreleme
+Kuantum bilgisayarlar, klasik şifreleme yöntemlerini kırma potansiyeline sahiptir.
+
+Kuantum Bilgisayarların Geleceği
+Kuantum bilgisayarların geleceği, büyük bir potansiyele sahiptir.
+
+Biyoteknoloji ve Genetik Mühendislik
+Biyoteknolojinin Temel Kavramları
+Biyoteknoloji, biyolojik sistemlerin teknolojik uygulamalarda kullanılmasıdır.
+
+Genetik Mühendislik ve Genom Düzenleme
+Genetik mühendislik, organizmaların genetik yapısını değiştirmeyi sağlar.
+
+Biyoteknolojinin Tıp Alanındaki Uygulamaları
+Biyoteknoloji, tıbbi teşhis, tedavi ve ilaç geliştirmede önemli bir rol oynar.
+
+Tarımda Biyoteknoloji
+Biyoteknoloji, tarımda verimliliği artırmak için kullanılır.
+
+Biyoteknoloji ve Etik Sorunlar
+Biyoteknoloji, etik konular ve sorumluluklar doğurur.
+
+Biyoteknolojinin Geleceği
+Biyoteknolojinin geleceği, büyük bir potansiyele sahiptir.
+
+Uzay Keşfi
+Uzay Keşfinin Tarihçesi
+Uzay keşfinin tarihçesi, insanoğlunun uzaya olan ilgisi ile başlar.
+
+Mars Keşif Projeleri
+Mars keşif projeleri, Kızıl Gezegen hakkında bilgi edinmeyi amaçlar.
+
+Uzay Teleskopları ve Gözlemevleri
+Uzay teleskopları, evrenin derinliklerini gözlemlemeyi sağlar.
+
+Uzayda Yaşam Araştırmaları
+Uzayda yaşam araştırmaları, diğer gezegenlerde yaşam belirtilerini arar.
+
+Ticari Uzay Seyahatleri
+Ticari uzay seyahatleri, uzayı daha erişilebilir hale getirir.
+
+Uzay Keşfi ve Uluslararası İşbirlikleri
+Uluslararası işbirlikleri, uzay keşfi projelerinde önemli bir rol oynar.
+
+5G ve Nesnelerin İnterneti (IoT)
+5G Teknolojisinin Temel Kavramları
+5G, yüksek hızlı ve düşük gecikmeli mobil iletişim teknolojisidir.
+
+5G ve Mobil İletişimde Devrim
+5G, mobil iletişimde devrim yaratarak daha hızlı veri iletimi sağlar.
+
+Nesnelerin İnterneti (IoT) Nedir?
+IoT, cihazların birbirleriyle iletişim kurduğu bir ağdır.
+
+IoT Uygulamaları ve Akıllı Şehirler
+IoT, akıllı şehirlerde verimliliği artırmak için kullanılır.
+
+5G ve IoT Güvenlik Sorunları
+5G ve IoT, güvenlik ve gizlilik sorunları doğurur.
+
+5G ve IoT'nin Geleceği
+5G ve IoT'nin geleceği, büyük bir potansiyele sahiptir.
+
+
+
+Python Yazıları
+1. Python ile Web Geliştirme
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python ile Web Geliştirme</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Python ile Web Geliştirme</h1>
+    <p>Python, web geliştirme için popüler bir programlama dilidir. Django ve Flask gibi güçlü web framework'leri ile dinamik ve ölçeklenebilir web uygulamaları oluşturmak mümkündür. Python'un basit ve okunabilir sözdizimi, web geliştiricileri için büyük bir avantaj sağlar.</p>
+</body>
+</html>
+2. Veri Bilimi ve Python
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veri Bilimi ve Python</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Veri Bilimi ve Python</h1>
+    <p>Python, veri bilimi alanında en çok tercih edilen dillerden biridir. NumPy, Pandas ve Scikit-learn gibi kütüphaneler, veri analizi ve makine öğrenimi modelleri oluşturma sürecini kolaylaştırır. Python ile veri görselleştirme araçları da oldukça güçlüdür.</p>
+</body>
+</html>
+3. Python ile Makine Öğrenimi
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python ile Makine Öğrenimi</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Python ile Makine Öğrenimi</h1>
+    <p>Python, makine öğrenimi için ideal bir programlama dilidir. TensorFlow ve Keras gibi kütüphaneler, derin öğrenme modelleri oluşturmayı ve eğitmeyi kolaylaştırır. Python ile makine öğrenimi projeleri geliştirmek hızlı ve etkilidir.</p>
+</body>
+</html>
+4. Python ile Otomasyon ve Script Yazma
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python ile Otomasyon ve Script Yazma</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Python ile Otomasyon ve Script Yazma</h1>
+    <p>Python, günlük işleri otomatikleştirmek için mükemmel bir dildir. Basit script'ler yazarak dosya işlemleri, veri analizi ve web scraping gibi görevleri kolayca gerçekleştirebilirsiniz. Python ile otomasyon, zaman ve iş gücünden tasarruf sağlar.</p>
+</body>
+</html>
+5. Python Frameworkleri: Django ve Flask
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Frameworkleri: Django ve Flask</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Python Frameworkleri: Django ve Flask</h1>
+    <p>Django ve Flask, Python ile web geliştirme yaparken kullanılan iki popüler framework'tür. Django, hızlı geliştirme ve temiz bir tasarım sağlar. Flask ise hafif ve esnek bir framework olup, daha küçük ve basit projeler için idealdir.</p>
+</body>
+</html>
+6. Python ile Oyun Geliştirme
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python ile Oyun Geliştirme</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Python ile Oyun Geliştirme</h1>
+    <p>Python, Pygame gibi kütüphanelerle oyun geliştirmek için kullanılabilir. Basit 2D oyunlardan, daha karmaşık projelere kadar çeşitli oyunlar geliştirmek mümkündür. Python'un kolay öğrenilebilirliği, oyun geliştirmeye yeni başlayanlar için büyük bir avantajdır.</p>
+</body>
+</html>
+JavaScript Yazıları
+1. JavaScript ile Dinamik Web Sayfaları
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript ile Dinamik Web Sayfaları</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>JavaScript ile Dinamik Web Sayfaları</h1>
+    <p>JavaScript, web sayfalarına dinamik özellikler eklemek için kullanılan popüler bir programlama dilidir. Kullanıcı etkileşimleri, form doğrulama, animasyonlar ve daha birçok dinamik özellik JavaScript ile kolayca eklenebilir.</p>
+</body>
+</html>
+2. JavaScript ES6 ve Sonrası
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript ES6 ve Sonrası</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>JavaScript ES6 ve Sonrası</h1>
+    <p>JavaScript'in ES6 (ECMAScript 2015) ve sonrası sürümleri, geliştiricilere daha güçlü ve modern özellikler sunar. Let ve Const değişken tanımlamaları, arrow fonksiyonları, template literal'ler ve destructuring gibi özellikler ES6 ile gelen yeniliklerdendir.</p>
+</body>
+</html>
+3. JavaScript Frameworkleri: React ve Vue.js
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Frameworkleri: React ve Vue.js</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>JavaScript Frameworkleri: React ve Vue.js</h1>
+    <p>React ve Vue.js, modern web uygulamaları geliştirmek için kullanılan popüler JavaScript framework'leridir. React, bileşen tabanlı mimarisi ile yeniden kullanılabilir kod yazmayı kolaylaştırırken, Vue.js basit ve esnek yapısı ile kullanıcı dostudur.</p>
+</body>
+</html>
+4. Node.js ile Sunucu Tarafı JavaScript
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Node.js ile Sunucu Tarafı JavaScript</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Node.js ile Sunucu Tarafı JavaScript</h1>
+    <p>Node.js, JavaScript'in sunucu tarafında çalışmasını sağlayan bir platformdur. Node.js ile hızlı ve ölçeklenebilir ağ uygulamaları geliştirilebilir. Asenkron I/O yapısı, yüksek performanslı ve düşük gecikmeli uygulamalar oluşturmayı mümkün kılar.</p>
+</body>
+</html>
+5. JavaScript ile Asenkron Programlama
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript ile Asenkron Programlama</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>JavaScript ile Asenkron Programlama</h1>
+    <p>JavaScript, asenkron programlama yetenekleri ile bilinir. Callback fonksiyonları, Promises ve Async/Await gibi yapılar, asenkron işlemleri yönetmeyi kolaylaştırır. Asenkron programlama, web uygulamalarında yüksek performans sağlar.</p>
+</body>
+</html>
+6. JavaScript ve DOM Manipülasyonu
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript ve DOM Manipülasyonu</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>JavaScript ve DOM Manipülasyonu</h1>
+    <p>Document Object Model (DOM), web sayfasının yapısını temsil eden bir modeldir. JavaScript ile DOM manipülasyonu yaparak, sayfa içeriğini dinamik olarak değiştirmek mümkündür. DOM manipülasyonu, kullanıcı etkileşimlerine anında tepki vermeyi sağlar.</p>
+</body>
+</html>
+Java Yazıları
+1. Java ile OOP (Nesne Yönelimli Programlama)
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java ile OOP (Nesne Yönelimli Programlama)</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Java ile OOP (Nesne Yönelimli Programlama)</h1>
+    <p>Java, nesne yönelimli programlama (OOP) paradigmasını destekleyen güçlü bir programlama dilidir. Sınıflar, nesneler, kalıtım, çok biçimlilik gibi OOP kavramları Java'da geniş ölçüde kullanılmaktadır.</p>
+</body>
+</html>
+2. Java ile Mobil Uygulama Geliştirme: Android
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java ile Mobil Uygulama Geliştirme: Android</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Java ile Mobil Uygulama Geliştirme: Android</h1>
+    <p>Java, Android uygulama geliştirme için kullanılan birincil dillerden biridir. Android Studio gibi geliştirme ortamları ile Java kullanarak güçlü ve kullanıcı dostu mobil uygulamalar geliştirmek mümkündür.</p>
+</body>
+</html>
+3. Java ile Spring Framework
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java ile Spring Framework</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Java ile Spring Framework</h1>
+    <p>Spring Framework, Java ile kurumsal düzeyde uygulamalar geliştirmek için kullanılan güçlü bir framework'tür. Bağımlılık enjeksiyonu, AOP, veri erişim katmanı gibi özellikler ile Spring, geliştirme sürecini hızlandırır ve kolaylaştırır.</p>
+</body>
+</html>
+4. Java ile Veritabanı İşlemleri: JDBC ve Hibernate
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java ile Veritabanı İşlemleri: JDBC ve Hibernate</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Java ile Veritabanı İşlemleri: JDBC ve Hibernate</h1>
+    <p>Java Database Connectivity (JDBC) ve Hibernate, Java ile veritabanı işlemleri yapmak için kullanılan iki önemli teknolojidir. JDBC, veritabanı bağlantısı ve sorgulama yapmayı sağlarken, Hibernate, ORM (Object Relational Mapping) ile veritabanı işlemlerini kolaylaştırır.</p>
+</body>
+</html>
+5. Java ile Web Uygulamaları Geliştirme
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java ile Web Uygulamaları Geliştirme</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Java ile Web Uygulamaları Geliştirme</h1>
+    <p>Java, dinamik ve ölçeklenebilir web uygulamaları geliştirmek için yaygın olarak kullanılır. Servlet ve JSP teknolojileri, Java tabanlı web uygulamaları oluşturmak için temel yapı taşlarıdır. Spring MVC ve JSF gibi framework'ler de web geliştirme sürecini destekler.</p>
+</body>
+</html>
+6. Java'da Çoklu İplik (Multithreading)
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java'da Çoklu İplik (Multithreading)</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Java'da Çoklu İplik (Multithreading)</h1>
+    <p>Java, çoklu iplik (multithreading) desteği ile yüksek performanslı uygulamalar geliştirmeyi mümkün kılar. Thread sınıfı ve Runnable arayüzü, Java'da paralel işlem yapmayı sağlar. Çoklu iplik kullanımı, özellikle büyük veri işlemleri ve oyun geliştirme gibi alanlarda önemlidir.</p>
+</body>
+</html>
+C# Yazıları
+1. C# ile .NET Framework
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C# ile .NET Framework</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C# ile .NET Framework</h1>
+    <p>.NET Framework, C# ile kurumsal düzeyde uygulamalar geliştirmek için kullanılan güçlü bir platformdur. Windows uygulamaları, web hizmetleri, konsol uygulamaları ve daha fazlası .NET Framework kullanılarak geliştirilebilir.</p>
+</body>
+</html>
+2. C# ile OOP (Nesne Yönelimli Programlama)
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C# ile OOP (Nesne Yönelimli Programlama)</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C# ile OOP (Nesne Yönelimli Programlama)</h1>
+    <p>C#, nesne yönelimli programlama (OOP) paradigmasını destekleyen modern bir programlama dilidir. Sınıflar, nesneler, kalıtım ve çok biçimlilik gibi OOP kavramları C#'ta geniş ölçüde kullanılmaktadır.</p>
+</body>
+</html>
+3. C# ile ASP.NET Core ve Web Geliştirme
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C# ile ASP.NET Core ve Web Geliştirme</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C# ile ASP.NET Core ve Web Geliştirme</h1>
+    <p>ASP.NET Core, C# ile yüksek performanslı ve ölçeklenebilir web uygulamaları geliştirmek için kullanılan modern bir framework'tür. MVC mimarisi, Razor sayfaları ve API desteği ile ASP.NET Core, web geliştirme sürecini hızlandırır ve kolaylaştırır.</p>
+</body>
+</html>
+4. C# ile Windows Uygulamaları Geliştirme
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C# ile Windows Uygulamaları Geliştirme</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C# ile Windows Uygulamaları Geliştirme</h1>
+    <p>C#, Windows Forms ve WPF (Windows Presentation Foundation) kullanarak zengin masaüstü uygulamaları geliştirmek için ideal bir dildir. Grafik arayüzler, veri bağlama ve olay odaklı programlama gibi özellikler ile kullanıcı dostu uygulamalar oluşturabilirsiniz.</p>
+</body>
+</html>
+5. C# ile Oyun Geliştirme: Unity
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C# ile Oyun Geliştirme: Unity</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C# ile Oyun Geliştirme: Unity</h1>
+    <p>Unity, C# ile oyun geliştirmek için kullanılan popüler bir oyun motorudur. 2D ve 3D oyunlar, VR/AR uygulamaları ve interaktif deneyimler oluşturmak için Unity ve C#'ı kullanabilirsiniz. Unity'nin güçlü araçları ve topluluk desteği, oyun geliştirme sürecini kolaylaştırır.</p>
+</body>
+</html>
+6. C# ile Veri Yapıları ve Algoritmalar
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C# ile Veri Yapıları ve Algoritmalar</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C# ile Veri Yapıları ve Algoritmalar</h1>
+    <p>C#, veri yapıları ve algoritmalar konusunda geniş bir yelpazeye sahiptir. Listeler, kuyruklar, yığınlar, ağaçlar ve graflar gibi veri yapıları ile algoritmaları etkili bir şekilde kullanarak performanslı ve optimize uygulamalar geliştirebilirsiniz.</p>
+</body>
+</html>
+C++ Yazıları
+1. C++ ile OOP (Nesne Yönelimli Programlama)
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C++ ile OOP (Nesne Yönelimli Programlama)</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C++ ile OOP (Nesne Yönelimli Programlama)</h1>
+    <p>C++, nesne yönelimli programlama (OOP) paradigmasını destekleyen güçlü bir programlama dilidir. Sınıflar, nesneler, kalıtım ve çok biçimlilik gibi OOP kavramları C++'ta geniş ölçüde kullanılmaktadır.</p>
+</body>
+</html>
+2. C++ ile Sistem Programlama
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C++ ile Sistem Programlama</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C++ ile Sistem Programlama</h1>
+    <p>C++, düşük seviye sistem programlama için ideal bir dildir. İşletim sistemi geliştirme, sürücü yazma ve donanım kontrolü gibi görevlerde C++ yaygın olarak kullanılır. Bellek yönetimi ve performans optimizasyonu, C++'ın öne çıkan özelliklerindendir.</p>
+</body>
+</html>
+3. C++ ile Oyun Geliştirme
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C++ ile Oyun Geliştirme</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C++ ile Oyun Geliştirme</h1>
+    <p>C++, oyun geliştirme için en popüler dillerden biridir. Unreal Engine gibi güçlü oyun motorları C++ ile geliştirilmiştir. Performans gerektiren oyun projelerinde, C++ kullanarak yüksek kaliteli ve hızlı oyunlar oluşturabilirsiniz.</p>
+</body>
+</html>
+4. C++ ile Veritabanı Programlama
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C++ ile Veritabanı Programlama</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C++ ile Veritabanı Programlama</h1>
+    <p>C++, veritabanı programlama için güçlü bir dildir. ODBC ve SQLAPI++ gibi kütüphaneler kullanarak, veritabanı bağlantısı ve işlemleri gerçekleştirebilirsiniz. C++ ile büyük ve karmaşık veritabanı uygulamaları oluşturmak mümkündür.</p>
+</body>
+</html>
+5. C++ ile Ağ Programlama
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C++ ile Ağ Programlama</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C++ ile Ağ Programlama</h1>
+    <p>C++, ağ programlama için kullanılan etkili bir dildir. Boost.Asio ve POCO gibi kütüphaneler, ağ bağlantıları, protokol uygulamaları ve veri iletimi gibi görevleri kolaylaştırır. C++ ile yüksek performanslı ağ uygulamaları geliştirebilirsiniz.</p>
+</body>
+</html>
+6. C++ ile Verimli Bellek Yönetimi
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C++ ile Verimli Bellek Yönetimi</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>C++ ile Verimli Bellek Yönetimi</h1>
+    <p>C++, bellek yönetimi konusunda geniş kontrol sağlar. Bellek tahsisi ve serbest bırakma işlemleri, performans optimizasyonu için önemlidir. Akıllı işaretçiler ve RAII (Resource Acquisition Is Initialization) gibi teknikler, bellek yönetimini daha güvenli ve verimli hale getirir.</p>
+</body>
+</html>
+Ruby Yazıları
+1. Ruby ile Web Geliştirme: Ruby on Rails
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruby ile Web Geliştirme: Ruby on Rails</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Ruby ile Web Geliştirme: Ruby on Rails</h1>
+    <p>Ruby on Rails, Ruby programlama dili ile geliştirilen popüler bir web framework'tür. MVC (Model-View-Controller) mimarisi ile hızlı ve verimli web uygulamaları geliştirmeyi sağlar. Rails, geliştirici dostu ve esnek yapısı ile öne çıkar.</p>
+</body>
+</html>
+2. Ruby ile Nesne Yönelimli Programlama
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruby ile Nesne Yönelimli Programlama</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Ruby ile Nesne Yönelimli Programlama</h1>
+    <p>Ruby, nesne yönelimli programlama (OOP) paradigmasını destekleyen bir dildir. Sınıflar, nesneler, kalıtım ve modüller gibi OOP kavramları Ruby'de geniş ölçüde kullanılmaktadır. Ruby'nin basit ve okunabilir sözdizimi, OOP uygulamalarını kolaylaştırır.</p>
+</body>
+</html>
+3. Ruby ile Test Otomasyonu
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruby ile Test Otomasyonu</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Ruby ile Test Otomasyonu</h1>
+    <p>Ruby, test otomasyonu için yaygın olarak kullanılan bir dildir. RSpec, Capybara ve Selenium gibi kütüphaneler ile test senaryoları oluşturabilir ve uygulamaları otomatik olarak test edebilirsiniz. Ruby ile test otomasyonu, yazılım kalitesini artırır.</p>
+</body>
+</html>
+4. Ruby ile Veri İşleme ve Manipülasyon
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruby ile Veri İşleme ve Manipülasyon</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Ruby ile Veri İşleme ve Manipülasyon</h1>
+    <p>Ruby, veri işleme ve manipülasyon görevlerinde etkili bir dildir. Nokogiri ve CSV gibi kütüphaneler ile XML, HTML ve CSV dosyalarını kolayca işleyebilir ve veri manipülasyonu yapabilirsiniz. Ruby, veri işleme sürecini hızlandırır ve kolaylaştırır.</p>
+</body>
+</html>
+5. Ruby ile API Geliştirme
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruby ile API Geliştirme</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Ruby ile API Geliştirme</h1>
+    <p>Ruby, RESTful API'ler geliştirmek için yaygın olarak kullanılır. Sinatra ve Grape gibi hafif framework'ler ile API'ler oluşturabilir ve yönetebilirsiniz. Ruby ile API geliştirme, hızlı ve etkili bir şekilde veri alışverişi yapmayı sağlar.</p>
+</body>
+</html>
+6. Ruby ile DevOps ve Otomasyon
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruby ile DevOps ve Otomasyon</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Ruby ile DevOps ve Otomasyon</h1>
+    <p>Ruby, DevOps ve otomasyon süreçlerinde yaygın olarak kullanılır. Chef ve Puppet gibi araçlar ile sunucu yapılandırmaları ve dağıtımları otomatikleştirebilirsiniz. Ruby ile otomasyon, verimliliği artırır ve insan hatalarını azaltır.</p>
+</body>
+</html>
+Teknoloji ve Bilim Yazıları
+1. Yapay Zeka Nedir?
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yapay Zeka Nedir?</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Yapay Zeka Nedir?</h1>
+    <p>Yapay zeka (YZ), makinelerin insan benzeri zeka davranışlarını sergilemesini sağlayan teknolojidir. Makine öğrenimi, doğal dil işleme ve görüntü tanıma gibi alanları kapsar. YZ, otomasyon, sağlık, finans ve daha birçok sektörde devrim yaratmaktadır.</p>
+</body>
+</html>
+2. Makine Öğrenimi Algoritmaları
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Makine Öğrenimi Algoritmaları</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Makine Öğrenimi Algoritmaları</h1>
+    <p>Makine öğrenimi algoritmaları, verilerden öğrenme ve tahmin yapma yeteneğine sahiptir. Doğrusal regresyon, karar ağaçları, k-means ve sinir ağları gibi algoritmalar, çeşitli veri analizi ve tahmin problemlerini çözmek için kullanılır.</p>
+</body>
+</html>
+3. Derin Öğrenme ve Sinir Ağları
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Derin Öğrenme ve Sinir Ağları</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Derin Öğrenme ve Sinir Ağları</h1>
+    <p>Derin öğrenme, çok katmanlı sinir ağları kullanarak verilerden öğrenme yöntemidir. Görüntü ve ses tanıma, doğal dil işleme gibi alanlarda büyük başarılar elde edilmiştir. Derin öğrenme, yapay zekanın en gelişmiş ve güçlü yöntemlerinden biridir.</p>
+</body>
+</html>
+4. Yapay Zeka Uygulamaları
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yapay Zeka Uygulamaları</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Yapay Zeka Uygulamaları</h1>
+    <p>Yapay zeka, çeşitli alanlarda uygulama bulmaktadır. Otomatik sürüş, tıbbi teşhis, müşteri hizmetleri chatbotları ve kişiselleştirilmiş öneri sistemleri, yapay zekanın yaygın kullanıldığı örneklerdir. YZ, iş süreçlerini optimize eder ve yeni iş modelleri oluşturur.</p>
+</body>
+</html>
+5. Yapay Zeka ve Etik
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yapay Zeka ve Etik</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Yapay Zeka ve Etik</h1>
+    <p>Yapay zeka, etik konular ve sorumluluklar doğurur. Veri gizliliği, önyargılar, iş gücü etkisi ve karar verme süreçlerinde şeffaflık, yapay zekanın etik kullanımı açısından önemlidir. Etik ilkeler, YZ teknolojilerinin güvenli ve adil kullanımını sağlar.</p>
+</body>
+</html>
+6. Makine Öğrenimi Proje Yönetimi
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Makine Öğrenimi Proje Yönetimi</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Makine Öğrenimi Proje Yönetimi</h1>
+    <p>Makine öğrenimi projeleri, dikkatli planlama ve yönetim gerektirir. Veri toplama, ön işleme, model eğitimi, değerlendirme ve dağıtım süreçleri, başarılı bir makine öğrenimi projesi için kritik adımlardır. Proje yönetimi, kaynakların verimli kullanımını sağlar.</p>
+</body>
+</html>
+Blockchain Teknolojisi ve Kripto Paralar Yazıları
+1. Blockchain Temel Kavramlar
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain Temel Kavramlar</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Blockchain Temel Kavramlar</h1>
+    <p>Blockchain, dağıtık bir veri tabanı teknolojisidir. Merkezi olmayan yapısı ve kriptografik güvenliği ile veri bütünlüğü sağlar. Bloklar, zincir halinde birbirine bağlıdır ve her blok, önceki bloğun bir özetini içerir.</p>
+</body>
+</html>
+2. Bitcoin ve İlk Kripto Para
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitcoin ve İlk Kripto Para</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Bitcoin ve İlk Kripto Para</h1>
+    <p>Bitcoin, 2009 yılında Satoshi Nakamoto tarafından oluşturulan ilk kripto paradır. Merkezi olmayan bir yapıya sahiptir ve blockchain teknolojisi üzerine inşa edilmiştir. Bitcoin, dijital ödemelerde devrim yaratmıştır.</p>
+</body>
+</html>
+3. Akıllı Kontratlar ve Ethereum
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akıllı Kontratlar ve Ethereum</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Akıllı Kontratlar ve Ethereum</h1>
+    <p>Ethereum, akıllı kontratlar oluşturmayı ve çalıştırmayı sağlayan bir blockchain platformudur. Akıllı kontratlar, önceden belirlenmiş kurallar dahilinde kendi kendine yürüyen programlardır. Ethereum, merkezi olmayan uygulamaların geliştirilmesini sağlar.</p>
+</body>
+</html>
+4. Blockchain'in Finans Sektörüne Etkisi
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain'in Finans Sektörüne Etkisi</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Blockchain'in Finans Sektörüne Etkisi</h1>
+    <p>Blockchain teknolojisi, finans sektöründe büyük değişiklikler yaratmaktadır. Güvenli ve hızlı para transferleri, merkezi olmayan finans (DeFi) uygulamaları ve dijital varlık yönetimi gibi alanlarda blockchain, yeni fırsatlar sunmaktadır.</p>
+</body>
+</html>
+5. Kripto Paralar ve Yatırım
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kripto Paralar ve Yatırım</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Kripto Paralar ve Yatırım</h1>
+    <p>Kripto paralar, yatırımcılar için yeni ve heyecan verici bir alan sunmaktadır. Bitcoin, Ethereum ve diğer altcoin'ler, yatırım fırsatları ve riskleri ile dikkat çekmektedir. Kripto para piyasasında başarılı yatırım stratejileri geliştirmek önemlidir.</p>
+</body>
+</html>
+6. Blockchain'in Diğer Kullanım Alanları
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain'in Diğer Kullanım Alanları</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Blockchain'in Diğer Kullanım Alanları</h1>
+    <p>Blockchain teknolojisi, sadece finansal işlemlerle sınırlı değildir. Sağlık, lojistik, tedarik zinciri yönetimi, dijital kimlik ve oylama sistemleri gibi birçok alanda kullanılmaktadır. Blockchain, veri güvenliği ve şeffaflık sağlar.</p>
+</body>
+</html>
+Kuantum Bilgisayarlar Yazıları
+1. Kuantum Bilgisayarların Temelleri
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuantum Bilgisayarların Temelleri</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Kuantum Bilgisayarların Temelleri</h1>
+    <p>Kuantum bilgisayarlar, kuantum mekaniğinin ilkelerini kullanarak çalışan yeni nesil bilgisayarlardır. Qubit adı verilen temel bilgi birimleri, süperpozisyon ve dolanıklık gibi kuantum özelliklerine sahiptir. Kuantum bilgisayarlar, klasik bilgisayarlardan çok daha hızlıdır.</p>
+</body>
+</html>
+2. Kuantum Bilgisayarların Tarihçesi
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuantum Bilgisayarların Tarihçesi</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Kuantum Bilgisayarların Tarihçesi</h1>
+    <p>Kuantum bilgisayarların tarihçesi, 1980'lere kadar uzanır. Richard Feynman ve David Deutsch gibi bilim insanları, kuantum hesaplama kavramını ortaya atmışlardır. Günümüzde IBM, Google ve Microsoft gibi şirketler, kuantum bilgisayar teknolojisinde önemli ilerlemeler kaydetmiştir.</p>
+</body>
+</html>
+3. Kuantum Algoritmalar
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuantum Algoritmalar</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Kuantum Algoritmalar</h1>
+    <p>Kuantum algoritmalar, kuantum bilgisayarların gücünü kullanarak belirli problemleri hızlı bir şekilde çözmeyi amaçlar. Shor'un algoritması, asal çarpanlara ayırma problemini klasik algoritmalardan çok daha hızlı çözer. Grover'un algoritması ise veri tabanı aramalarını hızlandırır.</p>
+</body>
+</html>
+4. Kuantum Bilgisayarların Uygulamaları
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuantum Bilgisayarların Uygulamaları</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Kuantum Bilgisayarların Uygulamaları</h1>
+    <p>Kuantum bilgisayarlar, birçok alanda devrim yaratma potansiyeline sahiptir. Kimya, malzeme bilimi, finans ve yapay zeka gibi alanlarda kuantum bilgisayarlar, karmaşık hesaplamaları hızlı bir şekilde gerçekleştirir. Kuantum bilgisayarların gelecekte geniş bir yelpazede uygulama bulması beklenmektedir.</p>
+</body>
+</html>
+5. Kuantum Bilgisayarlar ve Şifreleme
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuantum Bilgisayarlar ve Şifreleme</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Kuantum Bilgisayarlar ve Şifreleme</h1>
+    <p>Kuantum bilgisayarlar, klasik şifreleme yöntemlerini kırma potansiyeline sahiptir. Shor'un algoritması, RSA ve diğer asimetrik şifreleme yöntemlerini etkisiz hale getirebilir. Bu nedenle, kuantum dayanıklı şifreleme yöntemleri geliştirilmektedir.</p>
+</body>
+</html>
+6. Kuantum Bilgisayarların Geleceği
+html
+Kodu kopyala
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuantum Bilgisayarların Geleceği</title>
+    <link rel="stylesheet" href="../../../../style.css">
+</head>
+<body>
+    <h1>Kuantum Bilgisayarların Geleceği</h1>
+    <p>Kuantum bilgisayarların geleceği, büyük bir potansiyele sahiptir. Teknolojik ilerlemeler, daha güçlü ve daha erişilebilir kuantum bilgisayarların geliştirilmesini sağlayacaktır. Kuantum bilgisayarların geniş bir yelpazede uygulama bulması beklenmektedir.</p>
+</body>
+</html>
