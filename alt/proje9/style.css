@@ -2,7 +2,7 @@
 .first
 {
     background-color: #181717;
-    height: 90vh;
+    height: 70vh;
     display: flex;
     justify-content: center;
     
@@ -75,10 +75,10 @@
   .search-icon{
     position: relative;
     float: right;
-    width: 75px;
-    height: 75px;
-    top: -62px;
-    right: -45px;
+    width: 35px;
+    height: 35px;
+    top: -37px;
+    right: -35px;
   }
   
   
@@ -169,4 +169,129 @@
     display: block;
     justify-content: center;
     align-items: center;
+}
+/* Animasyon tanımlamaları */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideIn {
+    from { transform: translateY(50px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+/* Uygulanacak animasyonlar */
+.fade-in {
+    animation: fadeIn 2s ease-in-out;
+}
+
+.slide-in {
+    animation: slideIn 1s ease-out;
+}
+/* Slide bölümünün stili */
+.slide {
+    width: 100%;
+    overflow: hidden;
+    background-color: #181717; /* İsteğe bağlı olarak değiştirilebilir */
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+/* Slide kutularının konteyner stili */
+.slide-container {
+    display: flex;
+    width: 200%; /* Kutuların genişliği ve sayısı */
+    position: absolute;
+    animation: slide 10s linear infinite;
+    margin-right: 3rem;
+}
+
+/* Slide kutularının stili */
+.slide-box {
+    width: 200px; /* Kutuların genişliği */
+    height: auto; /* Kutuların yüksekliği */
+    background-color: #efc862; /* İsteğe bağlı olarak değiştirilebilir */
+    margin-right: 2rem;
+    border-radius: 8px;
+}
+
+/* Animasyon */
+@keyframes slide {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
+.scrolling-boxes
+{
+    transform: rotate(-5deg); /* 45 derece döndürme */
+    transform-origin: center; /* Döndürme merkezini belirleme */   
+}
+.scrolling-boxes {
+    overflow: hidden;
+    white-space: nowrap;
+    background-color: #181717;
+    padding: 20px 0;
+    position: relative;
+}
+
+.scrolling-container {
+    display: inline-flex;
+    white-space: nowrap;
+    animation: scroll 30s linear infinite;
+}
+
+.scrolling-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto; /* Kutuların genişliğini ayarlayın */
+    height: auto;
+    background-color: #2c2c2c;
+    margin-right: 20px;
+    box-sizing: border-box;
+    color: #f0f0f0;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    overflow: hidden; /* Taşmayı önleyin */
+    padding-left: 5rem; /* İç boşluk */
+    padding-right: 5rem;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Gölge ekleme */
+    box-shadow: inset 0 0 4px #efc862; /* Neon efekti içe doğru */
+
+    transition: background-color 0.5s ease; /* Arka plan renginin geçiş süresi */
+    transition: color 0.2s ease; /* Arka plan renginin geçiş süresi */
+
+}
+.scrolling-box:hover
+{
+    background-color: #efc862;
+    color: #181717;
+}
+.scrolling-box a {
+    color: inherit;
+    text-decoration: none;
+    font-size: 18px; /* Başlık boyutunu ayarlayın */
+    font-weight: bold;
+    display: block;
+    word-wrap: break-word; /* Kelimeleri kutu içinde bölün */
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
 }
