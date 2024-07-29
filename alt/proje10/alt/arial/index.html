@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arial Font - ExeBlog</title>
+    <link rel="stylesheet" href="../styles.css"> <!-- Genel stil dosyası -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        header {
+            background-color: #181717;
+            color: #efc862;
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        header a {
+            color: #efc862;
+            text-decoration: none;
+        }
+
+        header h2 {
+            margin: 0;
+        }
+
+        .container {
+            padding: 20px;
+            max-width: 1200px;
+            margin: auto;
+        }
+
+        h1 {
+            color: #181717;
+            font-size: 2em;
+            border-bottom: 2px solid #efc862;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        .font-example {
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #fff;
+        }
+
+        .font-example h2 {
+            font-size: 1.5em;
+            color: #181717;
+        }
+
+        .font-example p {
+            font-size: 1em;
+            color: #555;
+            line-height: 1.6;
+        }
+
+        .font-example .sample-text {
+            font-size: 1.2em;
+            padding: 10px;
+            border: 1px dashed #efc862;
+            background-color: #fafafa;
+            margin-top: 10px;
+        }
+
+        .more-info {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: #efc862;
+            color: #181717;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .more-info:hover {
+            background-color: #dcb34a;
+        }
+
+        footer {
+            padding: 15px;
+            text-align: center;
+            background-color: #181717;
+            color: #efc862;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="../index.html"><h2>ExeBlog</h2></a>   
+        <ul>
+            <li><a href="../index.html">Anasayfa</a></li>
+            <li><a href="../fontismi/index.html">Font Aileleri</a></li>
+        </ul>
+    </header>
+
+    <div class="container">
+        <h1>Arial Font</h1>
+        <div class="font-example">
+            <h2>Font Özellikleri:</h2>
+            <p>Arial, klasik bir sans-serif fonttur ve geniş bir kullanım alanına sahiptir. Genellikle okunabilirlik açısından tercih edilir.</p>
+            <div class="sample-text">
+                Bu metin Arial fontu kullanılarak yazılmıştır.
+            </div>
+        </div>
+        <div class="font-example">
+            <h2>Nasıl Kullanılır:</h2>
+            <p>Arial fontunu kullanmak için, CSS dosyanıza şu kodu ekleyebilirsiniz:</p>
+            <pre>
+font-family: Arial, sans-serif;
+            </pre>
+            <a href="https://fonts.google.com" class="more-info">Daha Fazla Bilgi</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 ExeBlog - Tüm Hakları Saklıdır.</p>
+    </footer>
+</body>
+</html>
