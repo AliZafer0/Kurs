@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo-Elements Showcase with Explanations</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="content">
+        <h1>Pseudo-Elements Showcase</h1>
+
+        <div class="example">
+            <div class="demo">
+                <h2>Başlık Altı Çizgisi</h2>
+                <p>Bu başlık, altına bir çizgi eklemek için `::before` pseudo-elementi kullanıyor.</p>
+            </div>
+            <div class="code">
+                <pre><code>
+h2::before {
+    content: ""; /* Pseudo-element ile boş bir içerik ekler */
+    position: absolute; /* Çizgiyi kesin konumlandırma ile başlığın altında yerleştirir */
+    bottom: -10px; /* Çizgiyi başlığın 10px altına yerleştirir */
+    left: 50%; /* Çizgiyi yatayda ortalar */
+    transform: translateX(-50%); /* Yatayda ortalanan çizgiyi başlığın tam ortasına getirir */
+    width: 50px; /* Çizginin genişliğini 50px olarak ayarlar */
+    height: 5px; /* Çizginin yüksekliğini 5px olarak ayarlar */
+    background-color: #3498db; /* Çizginin rengini mavi yapar */
+    border-radius: 2px; /* Çizginin köşelerini yuvarlatır */
+}
+                </code></pre>
+                <p class="description">Bu kod, başlık altına mavi bir çizgi ekler. Çizgi `::before` pseudo-elementi ile oluşturulur ve başlığın altında, ortalanmış olarak yerleştirilir.</p>
+            </div>
+        </div>
+
+        <hr class="divider">
+
+        <div class="example">
+            <div class="demo">
+                <h2>Liste İkonları</h2>
+                <p>Bu listede, her madde işaretine `::before` kullanarak özel ikonlar ekledik:</p>
+                <ul>
+                    <li class="list-item">Liste öğesi 1</li>
+                    <li class="list-item">Liste öğesi 2</li>
+                    <li class="list-item">Liste öğesi 3</li>
+                </ul>
+            </div>
+            <div class="code">
+                <pre><code>
+.list-item::before {
+    content: "✔"; /* Her liste öğesinin önüne bir onay işareti ekler */
+    position: absolute; /* Onay işaretini liste öğesinin yanında kesin konumlandırır */
+    left: 0; /* Onay işaretini öğenin soluna yerleştirir */
+    top: 50%; /* Onay işaretini öğenin dikeyde ortasına yerleştirir */
+    transform: translateY(-50%); /* Onay işaretini tam dikey ortada hizalar */
+    font-size: 1.2em; /* Onay işaretinin boyutunu ayarlar */
+    color: #3498db; /* Onay işaretinin rengini mavi yapar */
+}
+                </code></pre>
+                <p class="description">Liste öğelerinin önüne onay işareti eklemek için `::before` kullanılır. Bu, öğelerin yanına ikonlar eklemek için idealdir.</p>
+            </div>
+        </div>
+
+        <hr class="divider">
+
+        <div class="example">
+            <div class="demo">
+                <h2>Alıntı Çizgisi ve İkonu</h2>
+                <p>Alıntılar genellikle daha dikkat çekici olmak için stillendirilir.</p>
+                <blockquote>
+                    Bu bir alıntıdır. Pseudo-elementler ile stillendirildi.
+                </blockquote>
+            </div>
+            <div class="code">
+                <pre><code>
+blockquote::before {
+    content: "“"; /* Alıntının başına büyük bir tırnak işareti ekler */
+    font-size: 3em; /* Tırnak işaretinin boyutunu ayarlar */
+    color: #3498db; /* Tırnak işaretinin rengini mavi yapar */
+    position: absolute; /* Tırnak işaretini kesin konumlandırır */
+    left: 10px; /* Tırnak işaretini sol tarafa yerleştirir */
+    top: -10px; /* Tırnak işaretini alıntının biraz üstüne yerleştirir */
+}
+                </code></pre>
+                <p class="description">Bu stil, alıntıların yanına büyük bir tırnak işareti ekler, bu da alıntının vurgulanmasını sağlar.</p>
+            </div>
+        </div>
+
+        <hr class="divider">
+
+        <div class="example">
+            <div class="demo">
+                <h2>Buton Süslemeleri</h2>
+                <p>Butonların başına ve sonuna ikonlar ekleyerek görsel olarak zenginleştirmek için `::before` ve `::after` kullanımı:</p>
+                <a href="#" class="button">Daha Fazla Bilgi</a>
+            </div>
+            <div class="code">
+                <pre><code>
+.button::before {
+    content: "🚀"; /* Butonun başına bir roket ikonu ekler */
+    margin-right: 8px; /* Buton metni ile ikon arasında boşluk bırakır */
+    display: inline-block; /* İkonun buton içinde düzgün bir şekilde görüntülenmesini sağlar */
+}
+.button::after {
+    content: "➡"; /* Butonun sonuna bir ok ikonu ekler */
+    margin-left: 8px; /* Buton metni ile ikon arasında boşluk bırakır */
+    display: inline-block; /* İkonun buton içinde düzgün bir şekilde görüntülenmesini sağlar */
+}
+                </code></pre>
+                <p class="description">Butonlara ön ve arka ikonu ekleyerek, butonların daha dinamik ve etkileşimli görünmesini sağlar.</p>
+            </div>
+        </div>
+
+        <hr class="divider">
+
+        <div class="example">
+            <div class="demo">
+                <h2>Sosyal Medya İkonları</h2>
+                <p>Sosyal medya ikonlarının arka plan rengini ve hover efektlerini `::before` ile nasıl stilize edebileceğinizi gösteren bir örnek:</p>
+                <div class="social-icons">
+                    <a href="#" class="social-icon">F</a>
+                    <a href="#" class="social-icon">T</a>
+                    <a href="#" class="social-icon">G+</a>
+                    <a href="#" class="social-icon">L</a>
+                </div>
+            </div>
+            <div class="code">
+                <pre><code>
+.social-icon::before {
+    content: ""; /* İkonun arka planını oluşturmak için boş içerik ekler */
+    position: absolute; /* Arka planı ikonun tam arkasına yerleştirir */
+    top: 0; /* Arka planı ikonun üstüne hizalar */
+    left: 0; /* Arka planı ikonun soluna hizalar */
+    width: 100%; /* Arka planın genişliğini ikonla eşleştirir */
+    height: 100%; /* Arka planın yüksekliğini ikonla eşleştirir */
+    background-color: #3498db; /* Arka plan rengini mavi yapar */
+    border-radius: 50%; /* Arka planı daire şeklinde yapar */
+    z-index: -1; /* Arka planın ikonun arkasında kalmasını sağlar */
+    transition: background-color 0.3s ease; /* Hover sırasında arka plan renginin yumuşak geçişle değişmesini sağlar */
+}
+.social-icon:hover::before {
+    background-color: #2980b9; /* Hover sırasında arka plan rengini daha koyu mavi yapar */
+}
+                </code></pre>
+                <p class="description">Sosyal medya ikonlarının arka planını ve hover efektlerini `::before` pseudo-elementi ile oluşturur.</p>
+            </div>
+        </div>
+
+        <hr class="divider">
+
+        <div class="example">
+            <div class="demo">
+                <h2>İlerleme Çubuğu</h2>
+                <p>İlerleme çubuğunun doluluk yüzdesini göstermek için `::after` kullanımı:</p>
+                <div class="progress-bar-container">
+                    <div class="progress-bar"></div>
+                </div>
+            </div>
+            <div class="code">
+                <pre><code>
+.progress-bar::after {
+    content: "70%"; /* İlerleme çubuğunun doluluk yüzdesini gösterir */
+    position: absolute; /* Yüzdeyi çubuğun üstüne yerleştirir */
+    right: 10px; /* Yüzdeyi çubuğun sağ tarafına hizalar */
+    top: 50%; /* Yüzdeyi çubuğun dikeyde ortasına hizalar */
+    transform: translateY(-50%); /* Yüzdeyi tam dikey ortada hizalar */
+    color: white; /* Yüzde metnini beyaz yapar */
+    font-weight: bold; /* Yüzde metnini kalın yapar */
+}
+                </code></pre>
+                <p class="description">Bu kod, ilerleme çubuğunun doluluk yüzdesini göstermek için `::after` kullanır, bu da kullanıcıya ilerlemenin ne kadar tamamlandığını gösterir.</p>
+            </div>
+        </div>
+
+        <hr class="divider">
+
+        <div class="example">
+            <div class="demo">
+                <h2>Profil Kartı</h2>
+                <p>Profil kartına dekoratif bir çizgi eklemek için `::after` kullanımı:</p>
+                <div class="profile-card">
+                    <img src="images/pp.jpg" alt="Profile Picture">
+                    <div class="info">
+                        <h3>John Doe</h3>
+                        <p>Frontend Developer</p>
+                    </div>
+                </div>
+            </div>
+            <div class="code">
+                <pre><code>
+.profile-card .info::after {
+    content: ""; /* Dekoratif çizgi için boş bir içerik ekler */
+    position: absolute; /* Çizgiyi kesin konumlandırır */
+    top: 0; /* Çizgiyi üstte hizalar */
+    left: -20px; /* Çizgiyi profil kartının soluna hizalar */
+    width: 5px; /* Çizginin genişliğini ayarlar */
+    height: 100%; /* Çizginin yüksekliğini profil kartının yüksekliğiyle eşleştirir */
+    background-color: #3498db; /* Çizginin rengini mavi yapar */
+    border-radius: 5px; /* Çizginin köşelerini yuvarlatır */
+}
+                </code></pre>
+                <p class="description">Bu kod, profil kartının soluna dekoratif bir çizgi ekler, bu da kartın daha dikkat çekici görünmesini sağlar.</p>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
