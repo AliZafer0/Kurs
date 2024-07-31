@@ -228,10 +228,7 @@
         transform: translateX(-50%);
     }
 }
-.scrolling-boxes
-{
 
-}
 .scrolling-boxes {
     overflow: hidden;
     white-space: nowrap;

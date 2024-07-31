@@ -1,0 +1,122 @@
+/* Genel stil ayarları */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Aktif sayfa ismi için kodlar */
+
+.item-active
+{
+    color: #efc862 !important;
+}
+
+.item-active::after
+{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100% !important;
+    height: 2px;
+    background-color: #efc862;
+}
+
+/* Navbar stili */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #181717;
+    padding: 15px 30px;
+    color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.navbar a
+{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1em;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: color 0.3s, border-bottom 0.3s; /* Geçiş efektleri */
+    position: relative; /* Konumlandırma için */
+}
+/* Başlık stili */
+.navbar-brand {
+    font-size: 1.8em;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* Menü stili */
+.navbar-menu {
+    display: flex;
+    gap: 20px;
+}
+
+/* Menü bağlantıları */
+.navbar-menu a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1em;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: color 0.3s, border-bottom 0.3s; /* Geçiş efektleri */
+    position: relative; 
+}
+
+/* Menü bağlantıları üzerine hover efekti */
+.navbar-menu a:hover {
+    color: #f4f4f4;
+}
+
+/* Menü bağlantıları üzerine hover alt çizgi efekti */
+.navbar-menu a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: #efc862;
+    transition: width 0.3s; /* Çizgi genişliğinin geçiş efekti */
+}
+
+.navbar-menu a:hover::after {
+    width: 100%; /* Hover durumunda çizgi genişliği */
+}
+
+/* Tablet boyutunda (768px ve üzeri) ortalama */
+@media (max-width: 1024px) {
+    .navbar-menu {
+        justify-content: center;
+        width: 100%;
+    }
+}
+
+/* Telefon boyutunda (768px altı) alt alta sıralama ve ortalama */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: center; /* Başlığı ve menüyü ortalar */
+        padding: 15px 20px; 
+    }
+    .navbar-brand {
+        margin-bottom: 10px; /* Başlık ile menü arasına boşluk ekle */
+    }
+    .navbar-menu {
+        flex-direction: column;
+        align-items: center; /* Menü öğelerini ortalar */
+        width: 100%;
+        gap: 5px;
+    }
+    .navbar-menu a {
+        padding: 12px 20px; 
+        width: auto; 
+        font-size: 1em;
+        position: relative; 
+    }
+}
